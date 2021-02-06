@@ -1,6 +1,3 @@
-# Vector.py
-#Python module called Vector that provides functions for performing some standard vector operations.
-#Vectors in this project are represented by tuples of numbers, either floats or ints.
 #------------------------------------------------------------------------------
 # Vector.py
 #------------------------------------------------------------------------------
